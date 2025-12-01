@@ -26,5 +26,4 @@ This repository contains the Infrastructure as Code (IaC) and documentation for 
 
 - [Adguard Home] - Network level DNS filtering and ad blocking
 - [Nginx Proxy Manager] - Proxy hosts for self-hosted services with SSL encryption
-- [Plex Media Server] - Enables organization and streaming of a large personal media collection across devices
-- 
+- [Plex Media Server] - Enables organization and streaming of a large personal media collection across devices 
