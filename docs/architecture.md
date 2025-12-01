@@ -13,7 +13,7 @@ My homelab is built on a single Ubuntu Server 24.04 LTS host running multiple Do
 - **Reverse Proxy:** Nginx
 - **Management:** Portainer
 
-  ## Services
+## Services
 1. **Nginx** - Reverse proxy and web server
 2. **Portainer** - Docker container management GUI
 3. [Add more services here]
