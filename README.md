@@ -51,9 +51,7 @@ All services are defined in docker-compose.yml files. My configurations include 
 
 - `/docker` - Docker Compose configurations for all services *(populating as I refine each setup)*
 - `/docs` - Documentation including:
-  - [Hardware Specifications](docs/hardware.md)
-  - [Network Architecture](docs/network.md)
-  - [Service Configuration Notes](docs/services.md)
+  - [Server Architecture](docs/architecture.md)
 - `/scripts` - Utility scripts (currently developing backup solution)
 - Root directory - Main documentation and future orchestration plans
 
